@@ -1,30 +1,36 @@
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Calliope Projetos
 
+**Inovando na interseção entre Comunicação, Direito e Pesquisa para enfrentar desafios complexos.**
 
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
+## Sobre
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+A **Calliope Projetos** nasce da inspiração em Calíope, a musa grega da eloquência e do conhecimento. Nossa missão é aplicar inteligência estratégica para desenvolver soluções inovadoras que impulsionam instituições, escritórios e organizações na superação de desafios complexos.
 
-(* = not included)
+## Nossos Serviços
 
-AJ
-aj@lkn.io | @ajlkn
+### 📊 Pesquisa
+- **Diagnóstico Institucional:** Elaboração de diagnósticos detalhados para instituições públicas, escritórios de advocacia e associações.
+- **Análise de Dados:** Transformação de dados complexos em insights estratégicos para tomada de decisão.
+- **Mapeamento de Redes Sociais:** Análise de tendências e dinâmicas digitais para otimização de estratégias.
 
+### 🎓 Mentoria
+- **Apoio Acadêmico:** Orientação especializada para pesquisadores e estudantes nas interseções entre mídia, política e sistema de justiça.
 
-Credits:
+### ⚖️ Comunicação & Direito
+- **Legal Design:** Desenvolvimento de conteúdo jurídico acessível e visualmente impactante.
+- **Advocacy & Campanhas:** Estratégias integradas para amplificação de causas e defesa de interesses.
+- **Assessoria de Comunicação:** Planejamento estratégico e gestão de imagem institucional.
 
-	Demo Images:
-		Unsplash (unsplash.com)
+### 📖 Editorial
+- **Projetos Editoriais:** Produção de artigos acadêmicos, relatórios institucionais e publicações especializadas.
+- **Edição de Textos (Não Ficção):** Revisão e curadoria de conteúdo para garantir clareza e impacto.
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## 📜 Licença
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Este projeto está licenciado sob a [Licença MIT](LICENSE). Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
+
+## 🤝 Créditos
+
+Desenvolvido por **Zerezeze**.
+
+&copy; Calliope Projetos. Todos os direitos reservados.
