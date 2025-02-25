@@ -1,7 +1,6 @@
 # Calliope Projetos
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 
 **Transformando Comunicação, Direito e Pesquisa em soluções inovadoras para desafios complexos.**
 
